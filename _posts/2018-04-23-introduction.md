@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Introduction
-date: 
 ---
 
 ![]({{ "public/images/population_lines.jpg"  | relative_url }}){: width="85%"}
-
-
-
 
 
 
