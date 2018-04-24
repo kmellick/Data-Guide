@@ -8,8 +8,7 @@ permalink:        pretty
 title:            MPCA Data Guide
 tagline:          'Community data guide'
 description:      'A community organized guide to finding data'
-url:              https://MPCA-data.github.io/Data-Guide
-baseurl:          /
+url:              https://MPCA-data.github.io/Data-Guide/
 
 author:
   name:           'MPCA'
