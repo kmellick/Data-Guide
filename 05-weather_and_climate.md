@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weather and climate
+title: Weather
 ---
 
 ## Weather observations {#wx-obs}
