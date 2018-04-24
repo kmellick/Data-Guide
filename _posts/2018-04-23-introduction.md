@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-![]({{ "public/images/population_lines.jpg"  | absolute_url }}){:width="75%"}
+![]({{ "public/images/population_lines.jpg"  | absolute_url }}){: width = 75% }
 
 
 
