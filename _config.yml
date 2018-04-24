@@ -15,10 +15,10 @@ author:
   name:           'MPCA'
   url:            https://twitter.com/mnpca
 
-paginate:         5
+paginate:         3
 
 # Custom vars
-version:          1.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/mpca-data/data-guide
+  repo:           https://github.com/mpca-data/Data-Guide
