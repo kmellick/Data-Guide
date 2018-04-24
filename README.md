@@ -12,8 +12,9 @@ A community guide to finding data at the MPCA.
 
 
 
-## Contribute
+## Contribute :rocket:
 
+Read the contribution [instructions](https://mpca-data.github.io/Data-Guide//99-contribute/) to make updates and add your own data to the guide.
 
 
 ## License
