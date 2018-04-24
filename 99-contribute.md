@@ -4,7 +4,7 @@ title: Contribute to the data guide!
 ---
 
 <p class="message">
-This guide is open to everyone for editing. Follow these steps to make edits and add new data to the guide.
+This guide is open to everyone for editing. Follow the steps below to make edits and add new data to the guide.
  </p>
   
 1. Open the project folder - [X:\\Agency_Files\\Data_Services\\DAU\\Data Analytics User Group\\Shared\\Data Guide](file:///X:/Agency_Files/Data_Services/DAU/Data%20Analytics%20User%20Group/Shared/Data Guide/)
