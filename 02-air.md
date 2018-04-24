@@ -3,6 +3,7 @@ layout: page
 title: Air
 ---
 
+{:toc}
 
 This section describes how to access air monitoring, emissions and modeling data.
 
@@ -87,7 +88,7 @@ Want to learn more about ultrafine particles?
 
 
 
-## Air emissions {-}
+## Air emissions
 
 
 ### MN Emissions Inventory {#mn-ei}
@@ -122,7 +123,7 @@ This data can also be accessed from the `WH_TEMPO` schema by querying the ??? ta
 
 
 
-## Air modeling {-}
+## Air modeling
 
 
 ### NATA modeling {#nata}
