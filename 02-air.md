@@ -161,7 +161,8 @@ The information and data from this platform can be found at [CMAQ](https://www.e
 Online data tools for air modeling:
 
 - [Meteorological data](https://www.pca.state.mn.us/air/meteorological-data)
-- [Ozone modeling data](https://www.pca.state.mn.us/air/air-quality-dispersion-modeling-aqdm-background-and-ozone-data) - [Urban vs. Rural tool](https://www.pca.state.mn.us/air/air-quality-dispersion-modeling-aqdm-tools)
+- [Ozone modeling data](https://www.pca.state.mn.us/air/air-quality-dispersion-modeling-aqdm-background-and-ozone-data) 
+- [Urban vs. Rural tool](https://www.pca.state.mn.us/air/air-quality-dispersion-modeling-aqdm-tools)
 - [Nearby source tool](https://www.pca.state.mn.us/air/air-quality-dispersion-modeling-aqdm-tools)
 - [MN lookup table](https://www.pca.state.mn.us/air/air-quality-dispersion-modeling-aqdm-tools)
 - [More aweseome here](https://www.pca.state.mn.us/air/air-quality-dispersion-modeling-aqdm-data-and-tools) 
