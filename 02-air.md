@@ -3,11 +3,10 @@ layout: page
 title: Air
 ---
 
-* Add table of contents
-{:toc}
-
 This section describes how to access air monitoring, emissions and modeling data.
 
+* Add table of contents
+{:toc}
 
 ## Air monitoring 
 
