@@ -8,7 +8,7 @@ This section describes how to access air monitoring, emissions and modeling data
 * Add table of contents
 {:toc}
 
-## Air monitoring 
+## Monitoring 
 
 If the resources below fail to meet your needs, requests for air monitoring data can be sent to [Air data person](mailto:airdata-now@state.mn.us).
 
@@ -88,7 +88,7 @@ Want to learn more about ultrafine particles?
 
 
 
-## Air emissions
+## Emissions
 
 
 ### MN Emissions Inventory {#mn-ei}
@@ -123,7 +123,7 @@ This data can also be accessed from the `WH_TEMPO` schema by querying the ??? ta
 
 
 
-## Air modeling
+## Modeling
 
 
 ### NATA modeling {#nata}
