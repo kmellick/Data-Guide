@@ -4,7 +4,7 @@
 This section describes how to access air monitoring, emissions and modeling data.
 
 
-## Air monitoring {-}
+## Air monitoring 
 
 If the resources below fail to meet your needs, requests for air monitoring data can be sent to [Air data person](mailto:airdata-now@state.mn.us).
 
