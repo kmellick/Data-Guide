@@ -22,6 +22,6 @@ This guide is open to everyone to edit. Follow the steps below to make edits and
 
 <br>
 
-__Well done!__ :+1: :rocket:
+__Well done!__ 
 
 Thank you for your amazing contribution. You can view your updates by refreshing the webpage.
