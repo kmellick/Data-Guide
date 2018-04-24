@@ -4,9 +4,9 @@
 
 ## Contents
 
-- [Use](#use)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
+- [Water](#water)
+- [Air](#air)
+- [GIS](#gis)
 - [Contribute](#contribute)
 - [License](#license)
 
