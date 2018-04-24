@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Health and standards
+title: Health standards
 ---
 
 
