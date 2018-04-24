@@ -19,4 +19,4 @@ Historical meteorological observations are available from multiple sources.
 
 ## HYSPLIT wind trajectories {#hysplit}
 
-Wind trajectories are useful for determining the primary sources contributing to elevated air monitoring results. Trajectory results for the air monitoring netowork are available in [WAIR](#wair) for the years 2007 to 2017. The R package [SplitR](https://github.com/rich-iannone/SplitR) was used to automate HYSPLIT modeling for each air monitoring location.
+Wind trajectories are useful for determining the primary sources contributing to elevated air monitoring results. Trajectory results for the air monitoring network are available in [WAIR](#wair) for the years 2007 to 2017. The R package [SplitR](https://github.com/rich-iannone/SplitR) was used to automate HYSPLIT modeling for each air monitoring location.
