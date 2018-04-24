@@ -22,6 +22,6 @@ This guide is open to everyone for editing. Follow the steps below to make edits
 
 <br>
 
-__Well done!__ 
+__Well done!__ :+1::rocket:
 
-Thank you for your amazing contribution. :+1: View your updates by refreshing the webpage.
+Thank you for your amazing contribution. View your updates by refreshing the webpage.
