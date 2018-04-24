@@ -4,6 +4,9 @@ title: Introduction
 ---
 
 <span style = "max-width: 78%">
+
+![]({{"public/images/population_lines.jpg"  | absolute_url }})
+
 ![](http://placehold.it/400x200 "Medium example image")
 </span>
 
@@ -17,6 +20,7 @@ This is a living document for sharing recommended data sources at the MPCA. You 
 
 > Contribute here: [https://github.com/MPCA-data/Data-Guide](https://github.com/MPCA-data/Data-Guide)
 
+<br>
 
 __Current contributors__
 
