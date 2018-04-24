@@ -1,4 +1,7 @@
-# __Contribute to the data guide!__ {-}
+---
+layout: page
+title: Contribute to the data guide!
+---
 
 
 This guide is open to everyone for editing.  
