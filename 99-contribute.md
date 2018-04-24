@@ -24,4 +24,4 @@ This guide is open to everyone for editing. Follow the steps below to make edits
 
 __Well done!__ 
 
-Thank you for your amazing contribution. <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> View your updates by refreshing the webpage.
+Thank you for your amazing contribution. :+1: View your updates by refreshing the webpage.
