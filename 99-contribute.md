@@ -24,4 +24,4 @@ This guide is open to everyone for editing. Follow the steps below to make edits
 
 __Well done!__ :+1::rocket:
 
-Thank you for your amazing contribution. View your updates by refreshing the webpage.
+Thank you for your amazing contribution. You can view your updates by refreshing the webpage.
