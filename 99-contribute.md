@@ -4,7 +4,7 @@ title: Contribute to the data guide!
 ---
 
 <p class="message">
-This guide is open to everyone for editing. Follow the steps below to make edits and add new data to the guide.
+This guide is open to everyone to edit. Follow the steps below to make edits and add new data to the guide.
  </p>
   
 1. Sign-up for a GitHub account at [https://github.com/](https://github.com/)  
