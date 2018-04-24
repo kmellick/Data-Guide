@@ -3,12 +3,9 @@ layout: page
 title: Contribute to the data guide!
 ---
 
-
-This guide is open to everyone for editing.  
-
-<br>
-
-Follow these steps to make edits and add new content.
+<p class="message">
+This guide is open to everyone for editing. Follow these steps to make edits and add new data to the guide.
+ </p>
   
 1. Open the project folder - [X:\\Agency_Files\\Data_Services\\DAU\\Data Analytics User Group\\Shared\\Data Guide](file:///X:/Agency_Files/Data_Services/DAU/Data%20Analytics%20User%20Group/Shared/Data Guide/)
 1. Double-click the Ghost icon to open the __!Ghostwriter-editor__ _(this takes a few seconds to open)_
