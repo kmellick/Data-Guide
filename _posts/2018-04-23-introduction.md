@@ -3,9 +3,9 @@ layout: post
 title: Introduction
 ---
 
-![]({{ "/public/images/population_lines.jpg"  | absolute_url }})
+![]({{ "public/images/population_lines.jpg"  | absolute_url }}){:width="75%"}
 
-![](http://placehold.it/400x200 "Medium example image")
+
 
 
 
