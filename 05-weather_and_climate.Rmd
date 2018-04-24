@@ -1,5 +1,7 @@
-# Weather and climate
-
+---
+layout: page
+title: Weather and climate
+---
 
 ## Weather observations {#wx-obs}
 Historical meteorological observations are available from multiple sources. 
