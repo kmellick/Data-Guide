@@ -5,20 +5,20 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://data-analysis-users-group.github.io/MPCA-Data-Guide/
-baseurl:          https://data-analysis-users-group.github.io/MPCA-Data-Guide/
+title:            MPCA Data Guide
+tagline:          'Community data guide'
+description:      'A community organized guide to finding data'
+url:              https://MPCA-data.github.io/Data-Guide/
+baseurl:          https://MPCA-data.github.io/Data-Guide/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'MPCA'
+  url:            https://twitter.com/mnpca
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/mpca-data/data-guide
