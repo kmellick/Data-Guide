@@ -1,4 +1,7 @@
-# Air
+---
+layout: page
+title: Air
+---
 
 
 This section describes how to access air monitoring, emissions and modeling data.
