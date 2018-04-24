@@ -3,7 +3,6 @@ layout: page
 title: Water
 ---
 
-* This will become a table of contents (this text will be scraped).
 {:toc}
 
 The PCA collects water data for ambient monitoring and point source regulation.  There a few sources of "water data" and all are substantial so it is good to refine your search.  
