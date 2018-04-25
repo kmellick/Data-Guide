@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            MPCA Data Guide
 tagline:          'Community data guide'
-description:      'A community organized guide to finding data'
+description:      'A community guide to finding data'
 url:              https://MPCA-data.github.io/Data-Guide/
 baseurl:          /Data-Guide/
 
