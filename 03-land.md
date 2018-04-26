@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Land
+title: Land and waste
 ---
 
-## Waste data
+---
+
+## Solid waste 
