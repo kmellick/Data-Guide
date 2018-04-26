@@ -5,7 +5,7 @@ title: Air
 
 ---
 
-![](https://c1.staticflickr.com/3/2905/14291435282_00e80785e9_h.jpg)
+![](https://c1.staticflickr.com/3/2905/14291435282_00e80785e9_h.jpg){: width="90%"}
 
 This section describes how to access air monitoring, emissions and modeling data.
 
