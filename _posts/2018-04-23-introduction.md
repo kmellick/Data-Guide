@@ -4,7 +4,7 @@ title: Introduction
 ---
 
 ---
-![]({{ "public/images/population_lines.jpg"  | relative_url }}){: width="85%"}
+![]({{ "public/images/population_lines.jpg"  | relative_url }}){: width="90%"}
 
 __Welcome to the MPCA data guide!__   
 This is a living document for sharing recommended data sources at the MPCA. You are invited to add content and your name to the list of data heroes below.
