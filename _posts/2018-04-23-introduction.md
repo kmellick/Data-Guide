@@ -5,7 +5,8 @@ title: Introduction
 
 ---
 
-![]({{ "public/images/population_lines.jpg" }}){:width="90%"}
+![]({{ public/images/population_lines.jpg }}){:width="90%"}
+
 
 
 __Welcome to the MPCA data guide!__   
