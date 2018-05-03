@@ -4,9 +4,6 @@ title: Introduction
 ---
 
 ---
-![]({{ "public/images/population_lines.jpg"  | relative_url }}){:width="90%"}
-
-![]({{ "public/images/population_lines.jpg" }}){:width="90%"}
 
 
 ![]("public/images/population_lines.jpg"){:width="90%"}
