@@ -1,4 +1,11 @@
 
+---
+layout: page
+title: Census
+---
+
+---
+
 ## American Community Survey (ACS) {#acs}
 The ACS provides updated demographic statistics used for population estimates and Environmental Justice indicators.  
 
