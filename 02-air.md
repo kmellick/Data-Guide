@@ -74,18 +74,18 @@ View and download summarized air toxics monitoring data results from the online 
 
 Want to learn more about ultrafine particles?
 
-- __Explore the summarized data__:
-- __Download raw data__:
+- __Explore the summarized data__: Coming Soon!
+- __Download raw data from the ultrafine Tableau tool__: http://tableau.pca.state.mn.us/#/views/UFPDataValidation/DataValidationStory?:iid=1
 
 
 ### PAHs near facilities
 
-- __Download PAH data__:
+- __Download PAH data__: https://www.pca.state.mn.us/air/facility-fenceline-pah-monitoring
 
 
 ### PAHs in residential neighborhoods and rural areas
 
-- __Download more PAH data__:
+- __Download more PAH data__: https://www.pca.state.mn.us/air/pah-study-results
 
 
 
