@@ -18,7 +18,7 @@ Wastewater data are collected by regulated parties and transferred to Tempo from
 {:toc}
 
 
-## Wastewater is good water266909
+## Wastewater
 
 ### **Monitoring data types**
 
