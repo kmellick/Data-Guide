@@ -41,7 +41,8 @@ Land use shapefiles are maintained by MPCA GIS technical staff and stored on the
 Copies if the USCB Census shapefiles are stored on the agency R-drive at `R:\Demographics .  This includes the decennial census boundaries but not the 5-year average ACS data.  
 
 Census boundaries can be loaded into R using the `tigris` package to map air data to Census tracts and block groups. Use the following code to map MN boundaries.
-```{r, eval = F}
+
+```r
 # This script downloads shapefiles of Minnesota Census boundaries  
 # Load packages
 library(tigris)
