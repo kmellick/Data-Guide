@@ -18,7 +18,7 @@ Wastewater data are collected by regulated parties and transferred to Tempo from
 {:toc}
 
 
-## Wastewater is good water
+## Wastewater
 
 ### **Monitoring data types**
 
@@ -30,7 +30,7 @@ Facilities collect data and report data on daily, monthly, quarterly, and annual
 
 **Sample values** are the daily samples used to calculated DMR results.  These are submitted along with DMRs and stored in Tempo.  Digital sample values exist after 2014 and pre-2014 values are stored in scanned supplemental forms.    
 
-**Annual reports** are required for various activities like land application of solids and sprayed waste.  These are stored in Tempo as scanned pdfs.  More information to follow.
+**Annual reports** are required for various activities like land application of solids and sprayed waste.  These are stored in Tempo as scanned pdfs.
 
 
 **Monitoring data categories**
