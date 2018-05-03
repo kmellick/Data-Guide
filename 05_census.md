@@ -11,7 +11,7 @@ The ACS provides updated demographic statistics used for population estimates an
 
 Minnesota ACS results can be loaded into R using the `tidycensus` package. 
 Use the following code to download recent population and income estimates.
-```{r, eval = F}
+```r
 # This script downloads American Community Survey (ACS) results for MN
 # Load packages
 library(tidycensus)
