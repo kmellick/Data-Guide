@@ -1,6 +1,6 @@
 # MPCA Data Guide :mag_right: :earth_africa: :clipboard: :floppy_disk:
 
-A community guide to finding data at the MPCA.
+A community guide to finding data at the MPCA - https://mpca-data.github.io/Data-Guide
 
 ## Contents
 
