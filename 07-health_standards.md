@@ -3,21 +3,10 @@ layout: page
 title: Health standards
 ---
 
-
 ## Air
-
-### Inhalation health benchmarks (IHBs) {#IHBs}
-
-The inhalation health benchmarks used by MPCA programs are available online:
-
-- [PDF](https://www.pca.state.mn.us/sites/default/files/aq9-28.pdf) 
-- [Excel](https://www.pca.state.mn.us/sites/default/files/aq9-22.xlsm)
-- [CSV](https://raw.githubusercontent.com/MPCA-air/health-values/master/Inhalation_Health_Benchmarks(IHBs).csv)
-
 
 ### Air Quality Standards (NAAQs and MAAQS) {#NAAQS}
 Criteria air pollutants including: particulate (TSP, PM10, PM2.5), ozone, lead, sulfur dioxide, nitrogen dioxide, and carbon monoxide are regulated via ambient air quality standards. Ambient air quality standards are set at the national (NAAQS) and state (MAAQS) level. 
-
 
 __NAAQS__
 
@@ -29,7 +18,16 @@ The Clean Air Act, which was last amended in 1990, requires EPA to set National 
 - In August each year, EPA posts official design values here: 
    - https://www.epa.gov/air-trends/air-quality-design-values
 
-<br>
+
+### Inhalation health benchmarks (IHBs) {#IHBs}
+
+The inhalation health benchmarks used by MPCA programs are available online:
+
+- [PDF](https://www.pca.state.mn.us/sites/default/files/aq9-28.pdf) 
+- [Excel](https://www.pca.state.mn.us/sites/default/files/aq9-22.xlsm)
+- [CSV](https://raw.githubusercontent.com/MPCA-air/health-values/master/Inhalation_Health_Benchmarks(IHBs).csv)
+
+
 
 
 __MAAQS__
